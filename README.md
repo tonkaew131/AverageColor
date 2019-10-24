@@ -3,7 +3,7 @@ Python program that make image file have siz rectangle fill with color that aver
 
 ## Installing
 This project need Pillow Library.
-` pip install Pillow `
+``` pip install Pillow ```
 
 ## Example
 
