@@ -23,8 +23,9 @@ def main():
             draw = ImageDraw.Draw(image)
             draw.rectangle((x0 , y0 , x1 ,y1), fill=color, outline=None)
             del draw
-        filename = inputimagename + "_output.jpg"
+        filename = inputimagename.replace('.jpg','') + "_output.jpg"
         image.save(filename)
+        print("Output file name : " + filename)
     except IOError: 
         pass
 
