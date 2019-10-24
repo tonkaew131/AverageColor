@@ -8,7 +8,7 @@ First we need Pillow Library. To install Pillow
 pip install Pillow
 ```
 
-Then we run code!! 
+Then we run code!! //Image and main.py must be in same folder
 
 ```
 python main.py
