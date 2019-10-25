@@ -1,5 +1,5 @@
 # AverageColor
-Python program that make image file have siz rectangle fill with color that average to background. //Like VerticalPatlette from ramonathorns in Instagram. Only 9:16 raio (Ex.1080x1920) will work.
+Python program that make image file have siz rectangle fill with color that average to background. //Like VerticalPatlette from ramonathorns in Instagram. Only 9:16 ratio (Ex.1080x1920) will work.
 
 ## Installing
 First we need Pillow Library. To install Pillow
