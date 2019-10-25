@@ -5,13 +5,13 @@ Python program that make image file have siz rectangle fill with color that aver
 First we need Pillow Library. To install Pillow
 
 ``` 
-pip install Pillow
+$ pip install Pillow
 ```
 
 Then we run code!! //Image and main.py must be in same folder
 
 ```
-python main.py
+$ python main.py
 ```
 
 Name of input image must has file extension (.jpg)
