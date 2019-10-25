@@ -13,6 +13,8 @@ Then we run code!! //Image and main.py must be in same folder
 ```
 python main.py
 ```
+
+Name of input image must has file extension (.jpg)
 ## Example
 
 <img src="https://user-images.githubusercontent.com/40863067/67502854-cc133a80-f6b0-11e9-86fd-cb1bd10041d5.jpg" width="45%"></img> <img src="https://user-images.githubusercontent.com/40863067/67502887-d6cdcf80-f6b0-11e9-819c-399bc6ec82cd.jpg" width="45%"></img> 
