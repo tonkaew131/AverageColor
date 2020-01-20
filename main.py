@@ -1,5 +1,4 @@
 from PIL import Image, ImageDraw
-#hi
 
 def main():
     try:
