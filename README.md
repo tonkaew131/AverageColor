@@ -14,7 +14,7 @@ Then we run code!! //Image and main.py must be in same folder
 $ python main.py
 ```
 
-Name of input image must has file extension (.jpg)
+Name of input image must include file extension (.jpg)
 
 ```
 input name : input1.jpg
